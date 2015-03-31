@@ -2,7 +2,7 @@
 
 This document contains a few of the problems from [Project Euler](https://projecteuler.net/), just because we might not have Internet access when we attempt them.
 
-Some solutions can use a brute force approach, some cannot.  You solution should be able to find the answer easily within a minute on a modern computer.  If it takes longer, you might need to try somethign different.
+Some solutions can use a brute force approach, some cannot.  You solution should be able to find the answer easily within a minute on a modern computer.  If it takes longer, you might need to try something different.
 
 ### [Problem 1: Multiples of 3 and 5](https://projecteuler.net/problem=1)
 
