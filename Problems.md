@@ -2,7 +2,7 @@
 
 This document contains a few of the problems from [Project Euler](https://projecteuler.net/), just because we might not have Internet access when we attempt them.
 
-Some solutions can use a brute force approach, some cannot.  You solution should be able to find the answer easily within a minute on a modern computer.  If it takes longer, you might need to try something different.
+Some solutions can use a brute force approach, some cannot - in which case you might need to look up a bit of maths.  You solution should be able to find the answer easily within a minute on a modern computer.  If it takes longer, you might need to try something different.
 
 ### [Problem 1: Multiples of 3 and 5](https://projecteuler.net/problem=1)
 
@@ -23,6 +23,8 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 The prime factors of 13195 are 5, 7, 13 and 29.
 
 What is the largest prime factor of the number 600851475143?
+
+**Note:** I found this one much harder than the other ones in the first ten.  Brute forcing it doesn't work, so you need to find some mathematical algorithm that makes it quicker.
 
 ### [Problem 4: Largest palindrome product](https://projecteuler.net/problem=4)
 
