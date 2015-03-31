@@ -1,6 +1,6 @@
 # Exercises
 
-This document contains a few of the problems from [Project Euler](https://projecteuler.net/).
+This document contains a few of the problems from [Project Euler](https://projecteuler.net/), just because we might not have Internet access when we attempt them.
 
 ### [Problem 1: Multiples of 3 and 5](https://projecteuler.net/problem=1)
 
