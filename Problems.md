@@ -80,6 +80,8 @@ The four adjacent digits in the 1000-digit number that have the greatest product
 > 05886116467109405077541002256983155200055935729725
 > 71636269561882670428252483600823257530420752963450
 
+(see [Problem8_1000DigitNumber.txt](https://github.com/LeedsCodeDojo/ProjectEuler/blob/master/HandyFiles/Problem8_1000DigitNumber.txt))
+
 Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
 
 ### [Problem 9: Special Pythagorean triplet](https://projecteuler.net/problem=9)
@@ -127,6 +129,8 @@ In the 20×20 grid below, four numbers along a diagonal line have been highlight
 > 20 73 35 29 78 31 90 01 74 31 49 71 48 86 81 16 23 57 05 54  
 > 01 70 54 71 83 51 54 69 16 92 33 48 61 43 52 01 89 19 67 48  
 
+(see [Problem11_20x20number.txt](https://github.com/LeedsCodeDojo/ProjectEuler/blob/master/HandyFiles/Problem11_20x20number.txt))
+
 The product of these numbers is 26 × 63 × 78 × 14 = 1788696.
 
 What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?
@@ -138,6 +142,8 @@ Work out the first ten digits of the sum of the following one-hundred 50-digit n
 > 37107287533902102798797998220837590246510135740250  
 > 46376937677490009712648124896970078050417018260538  
 > 7432498619952474105947...
+
+(see [Problem13_50x100DigitNumbers.txt](https://github.com/LeedsCodeDojo/ProjectEuler/blob/master/HandyFiles/Problem13_50x100DigitNumbers.txt))
 
 ### [Problem 14: Longest Collatz sequence](https://projecteuler.net/problem=14)
 
