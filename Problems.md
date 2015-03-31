@@ -1,4 +1,4 @@
-# Exercises
+# Problems
 
 This document contains a few of the problems from [Project Euler](https://projecteuler.net/), just because we might not have Internet access when we attempt them.
 
@@ -130,3 +130,34 @@ In the 20×20 grid below, four numbers along a diagonal line have been highlight
 The product of these numbers is 26 × 63 × 78 × 14 = 1788696.
 
 What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?
+
+### [Problem 13: Large sum](https://projecteuler.net/problem=13)
+
+Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
+
+> 37107287533902102798797998220837590246510135740250  
+> 46376937677490009712648124896970078050417018260538  
+> 7432498619952474105947...
+
+### [Problem 14: Longest Collatz sequence](https://projecteuler.net/problem=14)
+
+The following iterative sequence is defined for the set of positive integers:
+
+> n → n/2 (n is even)  
+> n → 3n + 1 (n is odd)
+
+Using the rule above and starting with 13, we generate the following sequence:
+
+> 13 → 40 → 20 → 10 → 5 → 16 → 8 → 4 → 2 → 1
+
+It can be seen that this sequence (starting at 13 and finishing at 1) contains 10 terms. Although it has not been proved yet (Collatz Problem), it is thought that all starting numbers finish at 1.
+
+Which starting number, under one million, produces the longest chain?
+
+**NOTE:** Once the chain starts the terms are allowed to go above one million.
+
+### [Problem 16: Power digit sum](https://projecteuler.net/problem=16)
+
+> 2<sup>15</sup> = 32768 and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.
+
+What is the sum of the digits of the number 2<sup>1000</sup>?
