@@ -36,4 +36,9 @@
          (eratos  (filter not-divisible-by-current-prime? (cdr untested)) (cons (car untested) primes)))))
   (eratos (range 2 (sqrt n)) '()))
 
+(define (square n) (* n n))
+
+(define (sum l)
+  (apply + l))
+
 (provide (all-defined-out))
