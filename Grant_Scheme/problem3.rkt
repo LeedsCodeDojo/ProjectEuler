@@ -22,6 +22,17 @@
       (else (primes (add1 current)))))
   (primes 2))
 
+
+(define (primes-eratos n)
+  (define (eratos current-index remaining)
+    (cond
+      ((>= current-index (length remaining)) remaining)
+      (else 
+       (define (div? n)
+         (not (divisible-by? n (list-ref remaining current-index)))) ; assume each next item in the 'remaining' list is prime.  True?
+       (eratos (add1 current-index) (filter div? remaining)))))
+  (eratos 2 (range 2 (sqrt n))))
+
 (define (factorise n)
   (let ([primes (primes-upto (sqrt n))]) 
     (define (fac num factors prime-index)
