@@ -24,7 +24,7 @@ The prime factors of 13195 are 5, 7, 13 and 29.
 
 What is the largest prime factor of the number 600851475143?
 
-**Note:** I found this one much harder than the other ones in the first ten.  Coming up with a list of prime numbers will be a problem.  Brute forcing it doesn't work, so you need to use something like a [Sieve of Eratosthenes](http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes).
+**Note:** I found this one much harder than the other ones in the first ten.  Brute forcing it doesn't work, so you need to use something involving [Fermat's Factorisation](http://en.wikipedia.org/wiki/Fermat%27s_factorization_method) algorithm or similar - see the top answer to [this Stack Overflow question](http://stackoverflow.com/questions/23287/largest-prime-factor-of-a-number) for details..
 
 ### [Problem 4: Largest palindrome product](https://projecteuler.net/problem=4)
 
